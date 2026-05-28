@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecruelbaes.github.io/redroom-test/sitemap.xml
